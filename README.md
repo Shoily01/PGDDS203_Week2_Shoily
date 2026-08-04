@@ -4,10 +4,4 @@ Objective: The main purpose of this analysis is to find out and analyze ≥3 imp
 
 Team and Roles: 
 
-  905253001 Rabea Akter Shoily: Model building and evaluation 
- 
-  905253002 MD Taufiqur Rahman: Data collection, cleaning, and exploratory data analysis 
- 
-  905253016 Sarnur Akter: Report writing and formatting 
-  
-  905253006  MD Himal Al Harun: Final presentation; supports and helps expedite the analysis
+905253001 Rabea Akter Shoily: Model building and evaluation   905253002 MD Taufiqur Rahman: Data collection, cleaning, and exploratory data analysis  905253016 Sarnur Akter: Report writing and formatting  905253006  MD Himal Al Harun: Final presentation; supports and helps expedite the analysis
